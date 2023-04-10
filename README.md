@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pravin_P
-- 👀 I’m interested in Data analytics
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning B.Tech - Information Technology
 - 💞️ I’m looking to collaborate on anything
 - 📫 To reach me pravinperiyasamy2002@gmail.com
